@@ -1,3 +1,8 @@
 export default function Page() {
-  return <h1>EcoTech Reviews Europe 🚀</h1>;
+  return (
+    <main style={{ padding: 40 }}>
+      <h1>EcoTech Reviews Europe 🚀</h1>
+      <p>Build test successful</p>
+    </main>
+  );
 }
