@@ -1,3 +1,5 @@
+npm install
+npm run dev
 git add .
-git commit -m "clean reset next app"
+git commit -m "fix"
 git push
